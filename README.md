@@ -1,3 +1,4 @@
+![](https://pbs.twimg.com/profile_banners/3338757543/1652121635/600x200)
 <h1 align="center">Hi 👋, I'm David Clinton</h1>
 - 🔭 I’m currently working on **implementation of face detection using AI**
 
