@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobbster&size=29&duration=3500&color=FFFFFC&background=000000&center=true&vCenter=true&multiline=true&height=125&lines=DAVE+THE+TECH..+NOMAD;have+FUN)](https://git.io/typing-svg)
 <h2 align="center">Hi 👋, I'm David Clinton</h2>
 
-- 🌱 I’m currently completing my certification in **Python Programming at ALX Udacity Nano Degree Programme**
+- 🌱 Fullstack developer Intern at Untapped**
+- 🌱 Completed ALX Udacity Python Prorammin Foundations**
 
 - 👯 I’m looking to collaborate on **any OpenCv, ML projects**
 
