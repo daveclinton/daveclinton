@@ -3,19 +3,18 @@
 <h2 align="center">Hi 👋, I'm David Clinton</h2>
 
 - 🌱 Fullstack developer Intern at Untapped**
-- 🌱 Completed ALX Udacity Python Prorammin Foundations**
+- 🌱 Completed ALX Udacity Python Proramming Foundations NanoDegree**
 
 - 👯 I’m looking to collaborate on **any OpenCv, ML projects**
 
-- 🤝 I’m looking for help with **getting my first Tech interview**
+- Checkout my previous articles Here https://blog.paperspace.com/author/david-clinton/**
 
-- 📝 I regularly write articles on [https://blog.paperspace.com/facial-recognition-with-deep-learning/](https://blog.paperspace.com/facial-recognition-with-deep-learning/)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **clintondavid46@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12YIsjCZGIrYgknPV1ea-stlDXjjo_F_ild6nY3JDkLk/edit?usp=sharing](https://docs.google.com/document/d/12YIsjCZGIrYgknPV1ea-stlDXjjo_F_ild6nY3JDkLk/edit?usp=sharing)
+- 📄 Know about my Dev Journey https://dev.to/kuchotony/my-journey-of-thought-as-a-developer-30b7
 
 - ⚡ Fun fact **I just Love Coding recklessly and it consumes me**
 
