@@ -2,10 +2,10 @@
 
 <h2 align="center">Hi 👋, I'm David Clinton</h2>
 
-- 🌱 Fullstack developer Intern at Untapped**
+- 🌱 Front-End developer Intern at Untapped**
 - 🌱 Completed ALX Udacity Python Proramming Foundations NanoDegree**
 
-- 👯 I’m looking to collaborate on **any OpenCv, ML projects**
+- 👯 I’m looking to collaborate on **any OpenCv, Open Source Documentations**
 
 - Checkout my previous articles Here https://blog.paperspace.com/author/david-clinton/**
 
