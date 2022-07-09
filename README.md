@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm David Clinton</h2>
 
 - 🌱 Front-End developer Intern at Untapped**
-- 🌱 Completed ALX Udacity Python Proramming Foundations NanoDegree**
+- 🌱 Completed ALX Udacity Python Programming Foundations NanoDegree**
 
 - 👯 I’m looking to collaborate on **any OpenCv, Open Source Documentations**
 
