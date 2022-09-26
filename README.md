@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm David Clinton</h2>
 
-- 🌱 Front-End developer Intern at Untapped**
+- 🌱 A developer with over 2 years of experience in developing impactful web applications. An upcoming leader aiming at leading teams to efficiently handle building of systems from ideation to production**
 - 🌱 Completed ALX Udacity Python Programming Foundations NanoDegree**
 
 - 👯 I’m looking to collaborate on **any OpenCv, Open Source Documentations**
@@ -10,7 +10,7 @@
 - Checkout my previous articles Here https://blog.paperspace.com/author/david-clinton/**
 
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Javascript/Typescript**
 
 - 📫 How to reach me **clintondavid46@gmail.com**
 
