@@ -16,7 +16,7 @@
 
 - 📄 Know about my Dev Journey https://dev.to/kuchotony/my-journey-of-thought-as-a-developer-30b7
 
-- ⚡ Fun fact **I just Love Coding recklessly and it consumes me**
+- ⚡ Fun fact **I just Love Writing Code recklessly and it consumes me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
