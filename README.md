@@ -2,19 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm David Clinton</h2>
 
-- 🌱 A developer with over 2 years of experience in developing impactful web applications. An upcoming leader aiming at leading teams to efficiently handle building of systems from ideation to production**
-- 🌱 Completed ALX Udacity Python Programming Foundations NanoDegree**
-
-- 👯 I’m looking to collaborate on **any OpenCv, Open Source Documentations**
-
-- Checkout my previous articles Here https://blog.paperspace.com/author/david-clinton/**
-
-
-- 💬 Ask me about **Python, Javascript/Typescript**
-
-- 📫 How to reach me **clintondavid46@gmail.com**
-
-- 📄 Know about my Dev Journey https://dev.to/kuchotony/my-journey-of-thought-as-a-developer-30b7
+- A skilled front-end software engineer with a proven track record of creating robust and easily maintainable web applications over a period of 2 years. Committed to staying current with the latest front-end technologies to deliver outstanding solutions. Open to learning from seasoned engineers while also taking the initiative to mentor and support less experienced colleagues in their professional growth.
 
 - ⚡ Fun fact **I just Love Writing Code recklessly and it consumes me**
 
