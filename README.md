@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveclinton&label=Profile%20views&color=0e75b6&style=flat" alt="daveclinton" /> </p>
 
-- 🔭 I’m currently working on [working on](https://type-festival.vercel.app/)
+- 🔭 I’m currently working on [Typefest](https://type-festival.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
