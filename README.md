@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveclinton&label=Profile%20views&color=0e75b6&style=flat" alt="daveclinton" /> </p>
 
-- 🔭 Visit my personal website here [My personal site]([https://type-festival.vercel.app/](https://daveclintonn.cc/))
+- 🔭 Visit my personal website here [My-Site]([https://type-festival.vercel.app/](https://daveclintonn.cc/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
