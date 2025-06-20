@@ -3,9 +3,7 @@
 
 You made it! Welcome to **my GitHub**.
 
-I'm a **React Native** and a **Frontend Developer**. 
-
-## Wanna Know More? 🌍
+I am a Mobile and Frontend Engineer.
 
 I'm not just lurking on GitHub. You can also hit up my [personal website](https://daveclintonn.cc/) — it's like my digital lair. Projects, blogs, and a sprinkle of randomness.
 
