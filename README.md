@@ -1,1 +1,1 @@
-I amm just here to have fun
+I am just here to have fun
